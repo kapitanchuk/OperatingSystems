@@ -5,7 +5,7 @@ Pet-Project, which served a purpose of learning about processes communication, u
 During the development were gained crucial knowledge about working in a team, importance of meetings to solve arosen problems and understood principles of developing a product in a group, that said, spreading the tasks, based on strength of each team member, using shared repositories.
 
 ### Images, demonstrating finished product:
-![alt text](https://github.com/kapitanchuk/OperationalSystems/blob/master/OneSub.Client/Images/Production.png?raw=true)
+![alt text](https://github.com/kapitanchuk/OperatingSystems/blob/master/OneSub.Client/Images/Production.png?raw=true)
 
 
-![alt text](https://github.com/kapitanchuk/OperationalSystems/blob/master/OneSub.Client/Images/Production_2.png?raw=true)
+![alt text](https://github.com/kapitanchuk/OperatingSystems/blob/master/OneSub.Client/Images/Production_2.png?raw=true)
